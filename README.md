@@ -2,7 +2,7 @@
 
 I build software to make messy real-world processes understandable.
 
-My background is in infrastructure and operational systems. Much of my career has been spent diagnosing why organizations struggle with technology even when the software technically works. Over time I noticed a pattern: the failures were rarely about features — they were about workflow clarity.
+My background is in infrastructure and operational systems. Much of my career has been spent diagnosing why organizations struggle with technology even when the software technically works. Over time I noticed a pattern: the failures were rarely about features and were about workflow clarity.
 
 My independent projects explore a simple question:
 
@@ -73,7 +73,7 @@ I am particularly interested in:
 - systems reliability
 - AI-assisted software development
 
-I enjoy working on problems that sit between engineering, product, and user experience — especially where the main task is turning an unclear process into a repeatable one.
+I enjoy working on problems that sit between engineering, product, and user experience, especially where the main task is turning an unclear process into a repeatable one.
 
 ---
 
