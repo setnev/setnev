@@ -2,7 +2,7 @@
 
 I build software to make messy real-world processes understandable.
 
-My background is in infrastructure and operational systems. Much of my career has been spent diagnosing why organizations struggle with technology even when the software technically works. Over time I noticed a pattern: the failures were rarely about features and were about workflow clarity.
+My background is in infrastructure and operational systems. Much of my career has been spent diagnosing why organizations struggle with technology even when the software technically works. Over time I noticed a pattern: the failures stemmed from lack of workflow clarity, not lack of features.
 
 My independent projects explore a simple question:
 
